@@ -28,6 +28,7 @@ Three data storytelling sequences summarizing key insights for:
 Employee Demographics
 Compensation & Rewards
 Experience, Promotion & Career Growth
+
 📁 Repository Contents
 root/
 │
@@ -49,5 +50,6 @@ root/
 │   └── promotion_dashboard.png
 │
 └── README.md
+
 👤 Author
 Jibin
